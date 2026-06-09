@@ -133,12 +133,20 @@ Chỗ này đang gọi API lỗi, do api không truy cập được, vì web hi�
 
 <img width="360" height="720" alt="Screenshot_2026-06-08-11-43-19-962_com example csag" src="https://github.com/user-attachments/assets/92de8e52-f222-45ba-af7c-360dd0068478" />
 
+API đã ok rồi;
+
+<img  width="360" height="720" alt="Screenshot_2026-06-09-19-06-17-788_com example csag" src="https://github.com/user-attachments/assets/773aa383-63de-4d39-9ae6-d5d7d2fc4c36" />
+
 ### Cơ chế lưu trữ: Trạng thái dữ liệu được giữ nguyên khi thoát ra vào lại
 <img width="360" height="720" alt="Screenshot_2026-06-08-11-43-41-476_com example csag" src="https://github.com/user-attachments/assets/9e66fc9a-98ce-439d-8951-2f41d6818c68" />
 
 Đang lỗi do trang web hiện tại không hoạt động
 
 <img width="360" height="720" alt="Screenshot_2026-06-08-11-43-53-851_com example csag" src="https://github.com/user-attachments/assets/6d200619-3318-46d0-b748-675f331e9e70" />
+
+Trang đích đã ok rồi;
+
+<img  width="360" height="720" alt="Screenshot_2026-06-09-19-04-59-471_com example csag" src="https://github.com/user-attachments/assets/8b230c78-15e4-4de3-99ed-279ae99bb0a9" />
 
 ---
 
